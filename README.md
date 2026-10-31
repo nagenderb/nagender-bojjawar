@@ -39,29 +39,107 @@ Master of Computer Applications (MCA), Computer Engineering, Osmania University.
 
 ## Experience
 
-**AI Model Evaluator** · Remote · Jun 2026 – Sep 2026
-
-Evaluated AI-generated responses and technical outputs against quality criteria: correctness, relevance, instruction following, reasoning, and usefulness. Reviewed programming-oriented output for logical consistency and gaps.
-
-**Senior Software Engineer** · F5 Networks, Hyderabad · Jan 2019 – Feb 2026
-
-Defined testing pipelines and automation frameworks for Universal Zero Trust Network Access (UZTNA). Built an Android and iOS automation framework from scratch with Appium, Robot Framework, and Python. Set up upstream and downstream pipelines across modules, mentored automation engineers, and worked on BIG-IP APM testing, automation, and bug verification. Joined as an early team member and helped the team through product and automation knowledge transfer.
-
-**Senior SDET** · Lifion by ADP, Hyderabad · May 2015 – Jan 2019
-
-Defined the automation strategy for the Lifion platform, including work with ADP Innovation Labs in New York. Designed a visual regression testing framework from scratch and raised automation coverage for platform changes and sprint stories.
-
-**Senior QA Engineer** · CA Technologies, Hyderabad · Jun 2011 – May 2015
-
-Owned QA and automation for Nimsoft Asset Management from the early stages of the product. Defined QA processes, integrated diagnostic automation for post-production and release testing, and received the Star Performer award six times.
-
-**SDET** · Pegasystems, Hyderabad · Oct 2010 – Jun 2011
-
-Manual testing, automation ideas for product testing, and Pega 6.0 certification.
-
-**Software Engineer** · CA Technologies, Hyderabad · Dec 2005 – Jun 2010
-
-Regression testing, development on an internal CA Portal project, and integrations across Quality Center, Jira, and Service Desk. Received the “Going Above and Beyond” award seven times and was selected for a CA Innovation Meeting with the CEO.
+<table>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><img src="assets/logos/remote.svg" alt="Remote" height="56"></p>
+<p align="center"><b>AI Model Evaluator</b> · Remote<br><sub>Jun 2026 – Sep 2026</sub></p>
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111">
+</p>
+<ul>
+<li>Evaluating AI responses for correctness, relevance, and instruction following</li>
+<li>Assessing reasoning quality and usefulness of technical output</li>
+<li>Reviewing programming-oriented output for logic gaps</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<p align="center"><img src="assets/logos/f5.svg" alt="F5 Networks" height="56"></p>
+<p align="center"><b>Senior Software Engineer</b> · Hyderabad<br><sub>Jan 2019 – Feb 2026</sub></p>
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="Appium" src="https://img.shields.io/badge/Appium-662D91?style=flat-square">
+<img alt="Robot Framework" src="https://img.shields.io/badge/Robot%20Framework-000?style=flat-square">
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+<img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+</p>
+<ul>
+<li>Pipeline orchestration: upstream and downstream pipelines across modules</li>
+<li>Automation framework for Android and iOS, built from scratch</li>
+<li>Testing pipelines and automation for Universal ZTNA (UZTNA)</li>
+<li>BIG-IP APM testing, automation, and bug verification</li>
+<li>Mentoring automation engineers and team knowledge transfer</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><img src="assets/logos/adp.svg" alt="Lifion by ADP" height="56"></p>
+<p align="center"><b>Senior SDET</b> · Hyderabad<br><sub>May 2015 – Jan 2019</sub></p>
+<p align="center">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111">
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+</p>
+<ul>
+<li>Automation strategy for the Lifion platform</li>
+<li>Visual regression testing framework, built from scratch</li>
+<li>Raised automation coverage for platform changes and sprint stories</li>
+<li>Collaboration with ADP Innovation Labs, New York</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<p align="center"><img src="assets/logos/ca.svg" alt="CA Technologies" height="56"></p>
+<p align="center"><b>Senior QA Engineer</b> · Hyderabad<br><sub>Jun 2011 – May 2015</sub></p>
+<p align="center">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+</p>
+<ul>
+<li>QA and automation ownership for Nimsoft Asset Management</li>
+<li>QA process definition from the early stages of the product</li>
+<li>Diagnostic automation for post-production and release testing</li>
+<li>Star Performer award, six times</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><img src="assets/logos/pega.svg" alt="Pegasystems" height="56"></p>
+<p align="center"><b>SDET</b> · Hyderabad<br><sub>Oct 2010 – Jun 2011</sub></p>
+<p align="center">
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+</p>
+<ul>
+<li>Manual testing and automation ideas for product testing</li>
+<li>Pega 6.0 certification</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<p align="center"><img src="assets/logos/ca.svg" alt="CA Technologies" height="56"></p>
+<p align="center"><b>Software Engineer</b> · Hyderabad<br><sub>Dec 2005 – Jun 2010</sub></p>
+<p align="center">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+</p>
+<ul>
+<li>Regression testing and development on the internal CA Portal</li>
+<li>Integrations across Quality Center, Jira, and Service Desk</li>
+<li>“Going Above and Beyond” award, seven times</li>
+<li>Selected for a CA Innovation Meeting with the CEO</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ## How I work
 
@@ -75,71 +153,24 @@ Automation strategy and architecture · technical troubleshooting · mentoring �
 
 ### Game development
 
-I design and publish original Android games as [BNGSAPPS on Google Play](https://play.google.com/store/apps/dev?id=4910529798456608604). The catalog mixes Indian-language word games with small original arcade and puzzle titles.
+I design and publish original Android games as [BNGSAPPS on Google Play](https://play.google.com/store/apps/dev?id=4910529798456608604). Tap a tile to open the game.
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-<a href="https://play.google.com/store/apps/details?id=com.ajaanims.indianracing"><img src="assets/games/indian-racing-1.jpg" alt="Indian Auto Racing" width="100%"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.ajaanims.indianracing">Indian Auto Racing</a></b>
-<br><sub>Auto-rickshaw racing</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://play.google.com/store/apps/details?id=com.ajaanims.redcarrom"><img src="assets/games/red-coin-carrom-1.jpg" alt="Red Coin Carrom" width="100%"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.ajaanims.redcarrom">Red Coin Carrom</a></b>
-<br><sub>Timed mini carrom · 50+ levels</sub>
-</td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.ajaanims.indianracing"><img src="assets/games/indian-racing-1.jpg" alt="Indian Auto Racing" width="170"></a></td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.ajaanims.redcarrom"><img src="assets/games/red-coin-carrom-1.jpg" alt="Red Coin Carrom" width="170"></a></td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.ajaanims.dogescape"><img src="assets/games/dog-escape-2.jpg" alt="Dog Escape Arrow Puzzle" width="170"></a></td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.vk.ws2025"><img src="assets/games/word-search-2.jpg" alt="Word Search in six languages" width="170"></a></td>
 </tr>
 <tr>
-<td align="center" valign="top">
-<a href="https://play.google.com/store/apps/details?id=com.ajaanims.dogescape"><img src="assets/games/dog-escape-2.jpg" alt="Dog Escape Arrow Puzzle" width="100%"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.ajaanims.dogescape">Dog Escape</a></b>
-<br><sub>Arrow rescue puzzle</sub>
-</td>
-<td align="center" valign="top">
-<a href="https://play.google.com/store/apps/details?id=com.vk.ws2025"><img src="assets/games/word-search-2.jpg" alt="Word Search in six languages" width="100%"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.vk.ws2025">Word Search</a></b>
-<br><sub>Word search in six languages</sub>
-</td>
-</tr>
-</table>
-
-#### Indian-language puzzles
-
-<table>
-<tr>
-<td width="25%" align="center" valign="bottom">
-<a href="https://play.google.com/store/apps/details?id=com.bngs.podupukathalu"><img src="assets/games/podupu-kathalu-2.jpg" alt="Telugu Puzzles Podupu Kathalu" width="150"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.bngs.podupukathalu">Podupu Kathalu</a></b>
-<br><sub>Telugu riddles · 4.1</sub>
-</td>
-<td width="25%" align="center" valign="bottom">
-<a href="https://play.google.com/store/apps/details?id=com.bngs.paheliyan"><img src="assets/games/paheliyan-2.jpg" alt="Hindi Word Puzzles Paheliyan" width="150"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.bngs.paheliyan">Paheliyan</a></b>
-<br><sub>Hindi riddles · 4.4</sub>
-</td>
-<td width="25%" align="center" valign="bottom">
-<a href="https://play.google.com/store/apps/details?id=com.rebirth2025.padabandha.kannada"><img src="assets/games/padabanda-2.jpg" alt="Padabanda Kannada crossword" width="150"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.padabandha.kannada">Padabanda</a></b>
-<br><sub>Kannada crossword · 4.3</sub>
-</td>
-<td width="25%" align="center" valign="bottom">
-<a href="https://play.google.com/store/apps/details?id=com.rebirth2025.padavinodam.telugu"><img src="assets/games/padavinodam-2.jpg" alt="Padavinodam Telugu crossword" width="150"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.padavinodam.telugu">Padavinodam</a></b>
-<br><sub>Telugu crossword · 3.8</sub>
-</td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.bngs.podupukathalu"><img src="assets/games/podupu-kathalu-2.jpg" alt="Telugu Puzzles Podupu Kathalu" width="170"></a></td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.bngs.paheliyan"><img src="assets/games/paheliyan-2.jpg" alt="Hindi Word Puzzles Paheliyan" width="170"></a></td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.padabandha.kannada"><img src="assets/games/padabanda-2.jpg" alt="Padabanda Kannada crossword" width="170"></a></td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.padavinodam.telugu"><img src="assets/games/padavinodam-2.jpg" alt="Padavinodam Telugu crossword" width="170"></a></td>
 </tr>
 <tr>
-<td align="center" valign="bottom">
-<a href="https://play.google.com/store/apps/details?id=com.rebirth2025.crossword.gujarati"><img src="assets/games/crossword-gujarati-1.jpg" alt="Crossword Gujarati" width="150"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.crossword.gujarati">Crossword Gujarati</a></b>
-<br><sub>Gujarati crossword</sub>
-</td>
-<td align="center" valign="bottom">
-<a href="https://play.google.com/store/apps/details?id=com.rebirth2025.KurukkezuththuPuthir.tamil"><img src="assets/games/kurukkuezhuthu-2.jpg" alt="Kurukkuezhuthu Tamil crossword" width="150"></a>
-<br><b><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.KurukkezuththuPuthir.tamil">Kurukkuezhuthu</a></b>
-<br><sub>Tamil crossword</sub>
-</td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.crossword.gujarati"><img src="assets/games/crossword-gujarati-1.jpg" alt="Crossword Gujarati" width="170"></a></td>
+<td width="25%" align="center" valign="middle"><a href="https://play.google.com/store/apps/details?id=com.rebirth2025.KurukkezuththuPuthir.tamil"><img src="assets/games/kurukkuezhuthu-2.jpg" alt="Kurukkuezhuthu Tamil crossword" width="170"></a></td>
 <td></td>
 <td></td>
 </tr>
@@ -149,18 +180,12 @@ The same Play developer page also includes learning and reading apps, including 
 
 ### Symbian games
 
-Before Android, I shipped small games for Symbian phones. These photos are from that handset: a games menu with **NumberGame**, **Paranoid**, and **SiMoney**, and the Number’s Game board itself.
+Before Android, I shipped small games for Symbian phones: **NumberGame**, **Paranoid**, and **SiMoney**.
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="assets/symbian/games-menu.jpg" alt="Symbian games menu showing NumberGame, Paranoid, and SiMoney" width="280">
-<br><sub>Games menu · NumberGame, Paranoid, SiMoney</sub>
-</td>
-<td width="50%" align="center">
-<img src="assets/symbian/numbers-game.jpg" alt="Number's Game on a Symbian phone" width="280">
-<br><sub>Number’s Game</sub>
-</td>
+<td width="50%" align="center"><img src="assets/symbian/games-menu.jpg" alt="Symbian games menu showing NumberGame, Paranoid, and SiMoney" width="280"></td>
+<td width="50%" align="center"><img src="assets/symbian/numbers-game.jpg" alt="Number's Game on a Symbian phone" width="280"></td>
 </tr>
 </table>
 

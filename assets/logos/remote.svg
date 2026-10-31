@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" role="img" aria-label="Remote">
+  <g transform="translate(78 8)" fill="none" stroke="#0EA5A4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="24" cy="24" r="21"/>
+    <ellipse cx="24" cy="24" rx="9" ry="21"/>
+    <path d="M3 24h42M7 12.5h34M7 35.5h34"/>
+  </g>
+  <text x="140" y="38" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="18" fill="#0EA5A4">Remote</text>
+</svg>
